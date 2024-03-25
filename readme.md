@@ -1,1 +1,1 @@
- [IT行业闭坑指南](https://book.employleague.cn/)https://book.employleague.cn/
+[打工者闭坑指南](https://book.employleague.cn/)
